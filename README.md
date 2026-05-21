@@ -4,6 +4,9 @@ End-to-end SQL analysis of 100K+ Brazilian e-commerce orders using SQLite.
 Five business-focused queries covering revenue trends, product performance, 
 customer segmentation, regional spending, and cohort retention.
 
+## Tableau Dashboard
+**Live dashboard:** [Tableau Public →](https://public.tableau.com/app/profile/ziah.lin/viz/BrazilianE-CommerceDashboard_17793332672290/Dashboard1)
+
 ## Dataset
 
 Olist Brazilian E-Commerce Public Dataset (Kaggle): 9 relational tables 
